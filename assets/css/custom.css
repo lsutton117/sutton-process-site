@@ -5,15 +5,15 @@
 
 /* If you want to add a background image to the home page banner instead of using a solid color.
 Just un comment the #banner rule below. */
-/* #banner {
-  background-image: url(../../images/pic01.jpg);
+ #banner {
+  background-image: url(../../images/10.jpg);
   background-size: cover;
   color: rgba(255, 255, 255, 0.75);
   text-shadow: 1px 1px 15px #333;
   text-align: center;
   cursor: default;
   padding: 10em 4em 9em 4em;
-} */
+} 
 
 
 
@@ -34,3 +34,7 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+ /* h1, h2, h3, h4, h5, h6{
+   font-family:'Times New Roman', Times, serif
+ }
